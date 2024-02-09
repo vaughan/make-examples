@@ -3,4 +3,4 @@ Code examples to clarify make syntax.  Written as a commentary to the [make manu
 
 ## Examples:
 
-* [Optional prerequisites](optional_prerequisites/optional_prequesites.md)
+* [Optional prerequisites](optional_prerequisites/optional_prerequisites.md)
